@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636294024826",
+    "project_id": "memory-gmae",
+    "storage_bucket": "memory-gmae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636294024826:android:a6f9c7f8b3ea98f2d135c3",
+        "android_client_info": {
+          "package_name": "com.aurko.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636294024826-eef5c5rldml2o9884i50r8kvbb9ojfr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDost1SywDmnUwOnA_nUOFmzDTJBYWAxkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636294024826-eef5c5rldml2o9884i50r8kvbb9ojfr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
